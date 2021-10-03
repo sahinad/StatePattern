@@ -1,4 +1,4 @@
-﻿namespace StatePattern
+﻿namespace StatePattern.Solution
 {
     public enum ToolType
     {

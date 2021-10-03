@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StatePattern
+namespace StatePattern.Solution
 {
     public class EraserTool : ITool
     {
